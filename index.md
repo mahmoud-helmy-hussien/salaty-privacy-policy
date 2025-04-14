@@ -2,6 +2,7 @@ Revised Privacy Policy for Salaty
 Last updated: March 17, 2024
 This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Salaty application (the "Service") and tells You about Your privacy rights.
 We use Your data solely to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
+
 1. Interpretation and Definitions
 Application: Refers to Salaty, the software program provided by Us.
 Company: (referred to as either "We", "Us" or "Our" in this Agreement) refers to [Mahmoud Helmy].
@@ -12,6 +13,7 @@ Service Provider: Refers to third-party companies used to facilitate the Service
 Location Data: Refers to data about Your geographic position, which can be Precise Location (from device sensors) or Coarse Location (derived from device sensors or user-provided city names).
 Usage Data: Refers to data collected automatically about how the Service is used (e.g., feature usage frequency, crash reports collected by the app store platform). Note: Specify if you use any analytics or crash reporting tools.
 You: Means the individual accessing or using the Service.
+
 2. Collecting and Using Your Data
 Types of Data Collected:
 Location Data (Optional and User-Controlled):
@@ -28,7 +30,7 @@ Use of Your Data:
 The Company uses the collected data for the following purposes:
 To provide and maintain our Service: Primarily to calculate and display accurate prayer times, Qibla direction, and Hijri dates based on the provided or retrieved location.
 To manage Your preferences: To store Your settings (calculation methods, notification tones, location data, adjustments, etc.) locally on Your device.
-To improve our Service: Analyzing anonymized crash reports and usage data (provided by the app store platform) helps us fix bugs and enhance features. [Remove or modify if you don't use platform analytics]
+
 Third-Party Service Providers:
 OpenWeatherMap API: We use the OpenWeatherMap API for reverse geocoding (getting a city name from coordinates) and geocoding (getting coordinates from a city name). When these features are used, Your precise/coarse location coordinates or the city name You provide are sent to OpenWeatherMap to fulfill the request. Their use of data is governed by their own privacy policy. We only use the data returned (city name or coordinates) for the app's core functionality.
 Retention of Your Data:
