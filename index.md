@@ -1,5 +1,5 @@
-Revised Privacy Policy for Salaty
-Last updated: March 17, 2024
+Privacy Policy for Salaty
+
 This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Salaty application (the "Service") and tells You about Your privacy rights.
 We use Your data solely to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
